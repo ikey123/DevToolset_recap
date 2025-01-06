@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Spotify Wrapped 2024",
+    "description": "Annual music streaming statistics and trends from Spotify.",
+    "url": "https://spotify.com/wrapped",
+    "tags": ["music", "streaming", "statistics"],
+    "add_date": "2024-12-01"
+  },
+  {
+    "name": "Billboard Year-End Charts 2024",
+    "description": "Comprehensive overview of the year's most successful music releases.",
+    "url": "https://www.billboard.com/charts/year-end/",
+    "tags": ["music", "charts", "industry"],
+    "add_date": "2024-12-31"
+  }
+] 

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "奥斯卡2024",
+    "description": "第96届奥斯卡金像奖颁奖典礼，表彰2023年度最佳电影。",
+    "url": "https://www.oscars.org/",
+    "tags": ["电影", "颁奖", "好莱坞"],
+    "add_date": "2024-03-10"
+  },
+  {
+    "name": "艾美奖2024",
+    "description": "第76届艾美奖颁奖典礼，致敬电视行业的卓越成就。",
+    "url": "/article/emmy-awards-2024-preview",
+    "tags": ["电视", "颁奖", "娱乐"],
+    "add_date": "2024-01-15"
+  },
+  {
+    "name": "金球奖2024",
+    "description": "第81届金球奖颁奖典礼，表彰电影和电视领域的杰出成就。",
+    "url": "/article/golden-globe-awards-2024-preview",
+    "tags": ["电影", "电视", "颁奖"],
+    "add_date": "2024-01-07"
+  },
+  {
+    "name": "格莱美2024",
+    "description": "第66届格莱美奖颁奖典礼，表彰音乐行业的杰出成就。",
+    "url": "https://www.grammy.com/",
+    "tags": ["音乐", "颁奖", "娱乐"],
+    "add_date": "2024-02-04"
+  }
+] 

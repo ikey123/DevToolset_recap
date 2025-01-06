@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Academy Awards 2024",
+    "description": "The 96th Academy Awards ceremony, honoring the best films of 2023.",
+    "url": "https://www.oscars.org/",
+    "tags": ["movies", "awards", "hollywood"],
+    "add_date": "2024-03-10"
+  },
+  {
+    "name": "Emmy Awards 2024",
+    "description": "The 76th Emmy Awards, celebrating excellence in the television industry.",
+    "url": "/article/emmy-awards-2024-preview",
+    "tags": ["television", "awards", "entertainment"],
+    "add_date": "2024-01-15"
+  },
+  {
+    "name": "Golden Globe Awards 2024",
+    "description": "The 81st Golden Globe Awards, honoring excellence in film and television.",
+    "url": "/article/golden-globe-awards-2024-preview",
+    "tags": ["movies", "television", "awards"],
+    "add_date": "2024-01-07"
+  },
+  {
+    "name": "Grammy Awards 2024",
+    "description": "The 66th Annual Grammy Awards, celebrating outstanding achievements in the music industry.",
+    "url": "https://www.grammy.com/",
+    "tags": ["music", "awards", "entertainment"],
+    "add_date": "2024-02-04"
+  }
+] 

@@ -1,9 +1,9 @@
 // example data
 // {
-//   "name": "Tailwind CSS",
-//   "description": "A utility-first CSS framework",
-//   "url": "https://tailwindcss.com/",
-//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "name": "Entertainment Recap",
+//   "description": "A comprehensive review of entertainment events in 2024",
+//   "url": "https://example.com/",
+//   "tags": ["entertainment", "media", "2024"], (Optional, 3tags max)
 //   "add_date": "yyyy-MM-dd" (Optional) 
 //   ...any other key if you want
 // }
@@ -11,135 +11,70 @@
 // Notice:
 // 1. All data should be sorted alphabetically.
 // 2. Affiliate links are not allowed
-// 3. Do not submit tools that are unrelated to development.
+// 3. Keep content relevant to 2024 recaps
 
 [
   // A
   {
-    "name": "analytics",
-    "src": "analytics.jsonc",
-    "link": "analytics",
-    "description": "Tools for tracking and analyzing website data."
+    "name": "Award Show Recaps",
+    "src": "award-shows.jsonc",
+    "link": "award-shows",
+    "description": "Comprehensive coverage of major award ceremonies and celebrations in 2024."
   },
   // B
-  // C
-  // D
   {
-    "name": "database",
-    "src": "database.jsonc",
-    "link": "database",
-    "description": "Services for storing and managing data."
-  },
-  {
-    "name": "deployment",
-    "src": "deployment.jsonc",
-    "link": "deployment",
-    "description": "Tools for automating application deployment."
-  },
-  {
-    "name": "domain",
-    "src": "domain.jsonc",
-    "link": "domain",
-    "description": "Managing and analyzing domain names."
+    "name": "Business & Finance",
+    "src": "business-finance.jsonc",
+    "link": "business-finance",
+    "description": "Key business events, market trends, and financial milestones of 2024."
   },
   // E
-  // F
   {
-    "name": "Frontend Frameworks",
-    "src": "frontend-frameworks.jsonc",
-    "link": "frontend-frameworks",
-    "description": "Libraries for building user interfaces."
+    "name": "Entertainment & Media",
+    "src": "entertainment-media.jsonc",
+    "link": "entertainment-media",
+    "description": "Major entertainment industry events, media highlights, and cultural moments of 2024."
   },
   // G
-  // H
-  // I
   {
-    "name": "IDE",
-    "src": "ide.jsonc",
-    "link": "ide",
-    "description": "Integrated Development Environments for writing, testing, and debugging code efficiently."
-  },
-  {
-    "name": "Infrastructure",
-    "src": "infrastructure.jsonc",
-    "link": "infrastructure",
-    "description": "Services and tools that support the underlying architecture of applications, including computing resources, networking, storage solutions, and cloud-based infrastructure for scalable and efficient operations."
-},
-  {
-    "name": "Insights",
-    "src": "insights.jsonc",
-    "link": "insights",
-    "description": "Tools for discovering trends, emerging topics, and valuable market insights."
-  },
-  // J
-  // K
-  // L
-  {
-   "name": "Logo",
-    "src": "logo.jsonc",
-    "link": "logo",
-    "description": "Tools for designing, creating, and customizing logos for your brand or project."
+    "name": "Gaming & Esports",
+    "src": "gaming-esports.jsonc",
+    "link": "gaming-esports",
+    "description": "Notable gaming releases, esports tournaments, and industry developments in 2024."
   },
   // M
-  // N
-  // O
+  {
+    "name": "Music & Streaming",
+    "src": "music-streaming.jsonc",
+    "link": "music-streaming",
+    "description": "Highlights from the music industry, streaming platforms, and notable releases in 2024."
+  },
   // P
   {
-    "name": "payment",
-    "src": "payment.jsonc",
-    "link": "payment",
-    "description": "Platforms for processing online payments."
+    "name": "Political & Social Events",
+    "src": "political-social.jsonc",
+    "link": "political-social",
+    "description": "Major political developments and social movements that shaped 2024."
   },
-  {
-    "name": "promotion",
-    "src": "promotion.jsonc",
-    "link": "promotion",
-    "description": "Tools for promoting products and content."
-  },
-  // Q
   // R
+  {
+    "name": "Religious & Spiritual Events",
+    "src": "religious-spiritual.jsonc",
+    "link": "religious-spiritual",
+    "description": "Significant religious and spiritual events and developments in 2024."
+  },
   // S
   {
-    "name": "SEO",
-    "src": "seo.jsonc",
-    "link": "seo",
-    "description": "Tools for improving search engine visibility."
-  },
-  {
-    "name": "Storage",
-    "src": "storage.jsonc",
-    "link": "storage",
-    "description": "Services and tools for storing, managing, and accessing data efficiently."
+    "name": "Sports Events",
+    "src": "sports-events.jsonc",
+    "link": "sports-events",
+    "description": "Major sporting events, tournaments, and athletic achievements of 2024."
   },
   // T
   {
-    "name": "template",
-    "src": "template.jsonc",
-    "link": "template",
-    "description": "Pre-designed website themes and layouts."
-  },
-  // U
-  {
-    "name": "UI",
-    "src": "ui.jsonc",
-    "link": "ui",
-    "description": "Components for designing user interfaces."
-  },
-  // V
-  {
-    "name": "Version Control",
-    "src": "version-control.jsonc",
-    "link": "version-control",
-    "description": "Systems for managing code changes."
-  },
-  // W
-  {
-    "name": "Utils",
-    "src": "utils.jsonc",
-    "link": "utils",
-    "description": "Essential tools for enhancing and optimizing your products"
+    "name": "Tech Industry",
+    "src": "tech-industry.jsonc",
+    "link": "tech-industry",
+    "description": "Technology trends, innovations, and major industry developments in 2024."
   }
-  // X
-  // Y
-  // Z
 ]

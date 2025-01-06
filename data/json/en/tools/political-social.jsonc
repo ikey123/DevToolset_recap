@@ -1,0 +1,16 @@
+[
+  {
+    "name": "US Presidential Election 2024",
+    "description": "Coverage and analysis of the 2024 United States presidential election.",
+    "url": "https://www.usa.gov/election",
+    "tags": ["politics", "election", "usa"],
+    "add_date": "2024-11-05"
+  },
+  {
+    "name": "Global Climate Summit 2024",
+    "description": "Annual international conference on climate change and environmental policy.",
+    "url": "https://unfccc.int/",
+    "tags": ["climate", "environment", "policy"],
+    "add_date": "2024-11-30"
+  }
+] 

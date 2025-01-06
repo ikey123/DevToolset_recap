@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Global Economic Forum 2024",
+    "description": "Annual meeting of global economic leaders discussing world economic trends and challenges.",
+    "url": "https://www.weforum.org/",
+    "tags": ["economy", "finance", "global"],
+    "add_date": "2024-01-15"
+  },
+  {
+    "name": "Tech IPOs 2024",
+    "description": "Major technology companies that went public in 2024, including market performance and impact.",
+    "url": "https://www.nasdaq.com/",
+    "tags": ["stocks", "ipo", "tech"],
+    "add_date": "2024-12-31"
+  }
+] 

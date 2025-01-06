@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AI Breakthroughs 2024",
+    "description": "Major artificial intelligence developments and innovations in 2024.",
+    "url": "https://ai.google/",
+    "tags": ["ai", "technology", "innovation"],
+    "add_date": "2024-12-31"
+  },
+  {
+    "name": "Apple WWDC 2024",
+    "description": "Apple's Worldwide Developers Conference, showcasing new software and hardware.",
+    "url": "https://developer.apple.com/wwdc/",
+    "tags": ["apple", "tech", "developer"],
+    "add_date": "2024-06-10"
+  }
+] 

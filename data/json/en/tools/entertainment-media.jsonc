@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Box Office Hits 2024",
+    "description": "Top-grossing movies of 2024 and their impact on the entertainment industry.",
+    "url": "https://www.boxofficemojo.com/",
+    "tags": ["movies", "box-office", "entertainment"],
+    "add_date": "2024-12-31"
+  },
+  {
+    "name": "Streaming Wars 2024",
+    "description": "Major developments and competition in the streaming service industry throughout 2024.",
+    "url": "https://www.netflix.com/",
+    "tags": ["streaming", "media", "entertainment"],
+    "add_date": "2024-12-30"
+  }
+] 

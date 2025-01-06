@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Game Awards 2024",
+    "description": "Annual awards ceremony celebrating achievements in the gaming industry.",
+    "url": "https://thegameawards.com/",
+    "tags": ["gaming", "awards", "esports"],
+    "add_date": "2024-12-12"
+  },
+  {
+    "name": "League of Legends Worlds 2024",
+    "description": "The 2024 League of Legends World Championship tournament.",
+    "url": "https://lolesports.com/",
+    "tags": ["esports", "gaming", "competition"],
+    "add_date": "2024-11-15"
+  }
+] 
